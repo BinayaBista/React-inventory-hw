@@ -1,0 +1,10 @@
+.container {
+    border: Solid 1 px black;
+    display: flex;
+    justify-content:  space-around;
+    width:80%;
+
+}
+button{
+    width: 200px;
+}
